@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6b330ae7-467f-49bd-b33c-8da3d1183398": {
+      "ProjectGuid": "6b330ae7-467f-49bd-b33c-8da3d1183398",
+      "DisplayName": "API",
+      "ColorIndex": 0
+    },
+    "c10f6f4f-563f-4cf9-9994-b5bde35c93fe": {
+      "ProjectGuid": "c10f6f4f-563f-4cf9-9994-b5bde35c93fe",
+      "DisplayName": "BE.API",
+      "ColorIndex": 1
+    },
+    "38265f79-ab3f-4c69-8e82-ce361ff19a2e": {
+      "ProjectGuid": "38265f79-ab3f-4c69-8e82-ce361ff19a2e",
+      "DisplayName": "BE.BS",
+      "ColorIndex": 2
+    },
+    "705e6579-bd91-4eaa-8332-01fa2bc38b72": {
+      "ProjectGuid": "705e6579-bd91-4eaa-8332-01fa2bc38b72",
+      "DisplayName": "BE.DAL",
+      "ColorIndex": 3
+    },
+    "4f516444-9a53-47bf-81b6-bfb4ce112880": {
+      "ProjectGuid": "4f516444-9a53-47bf-81b6-bfb4ce112880",
+      "DisplayName": "BE.DAL.DO",
+      "ColorIndex": 4
+    },
+    "425f18a8-d112-4920-92a7-41b45ad6c7ad": {
+      "ProjectGuid": "425f18a8-d112-4920-92a7-41b45ad6c7ad",
+      "DisplayName": "BE.DAL.EF",
+      "ColorIndex": 5
+    },
+    "d8c5f660-ec6f-4130-87af-91badfeeb2c1": {
+      "ProjectGuid": "d8c5f660-ec6f-4130-87af-91badfeeb2c1",
+      "DisplayName": "BE.DAL.Repository",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
